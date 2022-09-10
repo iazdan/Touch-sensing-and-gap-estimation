@@ -1,1 +1,1 @@
-# Touch sensing and gap estimation
+# Gap Estimation and Contact Detection Information via Adjacent Surface Observation
